@@ -16,7 +16,7 @@ Third, create a `Audit` object
 audit = evalueirv.Audit(ballots, reported=w, test=atest, thresholds=[1/0.01])
 ```
 
-Fourth, if CVRs are available, initialise AWIARE
+Fourth, if CVRs are available, initialise AWAIRE
 ```
 init = evalueirv.Audit(cvrs, mode="CVR")  # where cvrs is of type irvballot.Ballots and contains 
                                           # the CVRs as observed ballots
