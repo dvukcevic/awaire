@@ -20,7 +20,7 @@ This git repository contains the source code of AWAIRE (Adaptively Weighted Audi
 
 ## Publications
 
-* Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, and Damjan Vukcevic. "Improving the Computational Efficiency of Adaptive Audits of IRV Elections". 9th International Joint Conference on Electronic Voting (E-Vote-ID 2024). LNCS 15104, pp. 37–53. Springer, 2025.
+* Alexander Ek, Michelle Blom, Philip B. Stark, Peter J. Stuckey, and Damjan Vukcevic. "Improving the Computational Efficiency of Adaptive Audits of IRV Elections". In: 9th International Joint Conference on Electronic Voting (E-Vote-ID 2024). LNCS 15104, pp. 37–53. Springer, 2025.
 DOI: <https://doi.org/10.1007/978-3-031-72244-8_3>.
 Preprint: <https://arxiv.org/abs/2407.16465>.
   * See folder `E-Vote-ID-24` for the source code used to generate the results presented in this publication, along with raw results.
